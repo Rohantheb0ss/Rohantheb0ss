@@ -1,6 +1,6 @@
  <div align="center">
 
-# rohan mathur
+# Rohan Mathur
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=1100&color=A78BFA&center=true&vCenter=true&width=700&height=55&lines=fixing+minor+inconveniences+with+major+effort;sometimes+i+just+make+stuff+for+fun;probably+playing+another+roguelike" alt="a few things about me" />
 
